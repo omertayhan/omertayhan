@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Tufan</h1>
-<h3 align="center">A Web Developer from Turkey</h3>
+<h3 align="center">A Software Developer from Turkey</h3>
 
 - 🌱 I’m currently learning <strong>.Net Core</strong> with help from [learn.microsoft.com](learn.microsoft.com)
 
