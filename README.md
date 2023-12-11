@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning .Net Core with help from [learn.microsoft.com](https://learn.microsoft.com/)
 
-- 📫 How to reach me **omert.ayhann@gmail.com**
+- 📫 How to reach me **omert.ayhan@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
