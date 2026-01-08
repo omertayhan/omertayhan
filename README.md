@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omertayhan&label=Profile%20views&color=0e75b6&style=flat" alt="omertayhan" /> </p>
 
-- 🌱 I’m currently learning .Net Core 
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
