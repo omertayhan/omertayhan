@@ -51,9 +51,3 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="48" height="48"/> 
 </a>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omertayhan&layout=compact&theme=dracula&locale=en&count-private=true&langs_count=5" height="150" alt="omertayhan" />
-  <img src="https://github-readme-stats.vercel.app/api?username=omertayhan&show_icons=true&layout=compact&theme=dracula&locale=en&count_private=true&hide=issues" alt="omertayhan" height="150" width="50%" />
-</div>
-
